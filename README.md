@@ -1,3 +1,3 @@
 # MongoDB-Atlas-Setup
 
-<img src='./atlas-logo.png'/>
+<img style="margin: 0 auto;" src='./atlas-logo.png'/>
